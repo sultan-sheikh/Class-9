@@ -357,11 +357,7 @@ padding-top:15px;
     font-size: 13px;
 }
 
-.category-section .shadow {
-    box-shadow: 0 4px 8px 0 #00000021;
-    display: block;
-    padding: 0 30px;
-}
+
     
 }
 @media (max-width:767px){
@@ -392,17 +388,12 @@ margin:0;
 
 element.style {
 }
-@media (max-width: 991px)
+@media (max-width: 991px){
 .feature-section .product img {
     height: 120px;
 }
-.feature-section .product img {
-    height: 120px;
 }
 
-.laptop-section .product img {
-    height: 120px;
-}
     
 @media (max-width:575px){
     .navbar-brand img {
